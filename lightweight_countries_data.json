@@ -1,0 +1,1647 @@
+[
+  {
+    "name": "Afghanistan",
+    "iso2": "AF",
+    "population": 38928,
+    "gdp_per_capita": 551.9,
+    "region": "Asia"
+  },
+  {
+    "name": "Albania",
+    "iso2": "AL",
+    "population": 2878,
+    "gdp_per_capita": 5223.8,
+    "co2_emissions": 4.3,
+    "region": "Europe",
+    "tourists": 5340
+  },
+  {
+    "name": "Algeria",
+    "iso2": "DZ",
+    "population": 43851,
+    "gdp_per_capita": 4114.7,
+    "co2_emissions": 130.5,
+    "region": "Africa",
+    "tourists": 2657
+  },
+  {
+    "name": "Andorra",
+    "iso2": "AD",
+    "population": 77,
+    "gdp_per_capita": 42051.6,
+    "region": "Europe",
+    "tourists": 3042
+  },
+  {
+    "name": "Angola",
+    "iso2": "AO",
+    "population": 32866,
+    "gdp_per_capita": 3437.3,
+    "co2_emissions": 18,
+    "region": "Africa",
+    "tourists": 218
+  },
+  {
+    "name": "Antigua And Barbuda",
+    "iso2": "AG",
+    "population": 98,
+    "gdp_per_capita": 16727,
+    "region": "North America",
+    "tourists": 269
+  },
+  {
+    "name": "Argentina",
+    "iso2": "AR",
+    "population": 45196,
+    "gdp_per_capita": 11687.6,
+    "co2_emissions": 183.4,
+    "region": "South America",
+    "tourists": 6942
+  },
+  {
+    "name": "Armenia",
+    "iso2": "AM",
+    "population": 2963,
+    "gdp_per_capita": 4212.1,
+    "co2_emissions": 5.2,
+    "region": "Asia",
+    "tourists": 1652
+  },
+  {
+    "name": "Australia",
+    "iso2": "AU",
+    "population": 25500,
+    "gdp_per_capita": 58392.7,
+    "co2_emissions": 384.6,
+    "region": "Oceania",
+    "tourists": 9246
+  },
+  {
+    "name": "Austria",
+    "iso2": "AT",
+    "population": 9006,
+    "gdp_per_capita": 51230.3,
+    "co2_emissions": 64.9,
+    "region": "Europe",
+    "tourists": 30816
+  },
+  {
+    "name": "Azerbaijan",
+    "iso2": "AZ",
+    "population": 10139,
+    "gdp_per_capita": 4717.7,
+    "co2_emissions": 30.8,
+    "region": "Asia",
+    "tourists": 2633
+  },
+  {
+    "name": "Bahamas",
+    "iso2": "BS",
+    "population": 393,
+    "gdp_per_capita": 32218.1,
+    "region": "North America",
+    "tourists": 1633
+  },
+  {
+    "name": "Bahrain",
+    "iso2": "BH",
+    "population": 1702,
+    "gdp_per_capita": 24133.5,
+    "co2_emissions": 29.8,
+    "region": "Asia",
+    "tourists": 12045
+  },
+  {
+    "name": "Bangladesh",
+    "iso2": "BD",
+    "population": 164689,
+    "gdp_per_capita": 1670.8,
+    "co2_emissions": 78.3,
+    "region": "Asia",
+    "tourists": 1026
+  },
+  {
+    "name": "Barbados",
+    "iso2": "BB",
+    "population": 287,
+    "gdp_per_capita": 17745.9,
+    "region": "North America",
+    "tourists": 680
+  },
+  {
+    "name": "Belarus",
+    "iso2": "BY",
+    "population": 9449,
+    "gdp_per_capita": 6311.7,
+    "co2_emissions": 54.1,
+    "region": "Europe",
+    "tourists": 11502
+  },
+  {
+    "name": "Belgium",
+    "iso2": "BE",
+    "population": 11590,
+    "gdp_per_capita": 47293,
+    "co2_emissions": 90.4,
+    "region": "Europe",
+    "tourists": 9119
+  },
+  {
+    "name": "Belize",
+    "iso2": "BZ",
+    "population": 398,
+    "gdp_per_capita": 4884.7,
+    "region": "North America",
+    "tourists": 489
+  },
+  {
+    "name": "Benin",
+    "iso2": "BJ",
+    "population": 12123,
+    "gdp_per_capita": 906.5,
+    "co2_emissions": 6.8,
+    "region": "Africa",
+    "tourists": 295
+  },
+  {
+    "name": "Bhutan",
+    "iso2": "BT",
+    "population": 772,
+    "gdp_per_capita": 3523.8,
+    "region": "Asia",
+    "tourists": 274
+  },
+  {
+    "name": "Bolivia, Plurinational State Of",
+    "iso2": "BO",
+    "population": 11673,
+    "gdp_per_capita": 3548.6,
+    "co2_emissions": 21.9,
+    "region": "South America",
+    "tourists": 1142
+  },
+  {
+    "name": "Bosnia And Herzegovina",
+    "iso2": "BA",
+    "population": 3281,
+    "gdp_per_capita": 5951.4,
+    "co2_emissions": 22.3,
+    "region": "Europe",
+    "tourists": 1053
+  },
+  {
+    "name": "Botswana",
+    "iso2": "BW",
+    "population": 2352,
+    "gdp_per_capita": 8258.2,
+    "co2_emissions": 7.7,
+    "region": "Africa",
+    "tourists": 1623
+  },
+  {
+    "name": "Brazil",
+    "iso2": "BR",
+    "population": 212559,
+    "gdp_per_capita": 8920.7,
+    "co2_emissions": 427.6,
+    "region": "South America",
+    "tourists": 6621
+  },
+  {
+    "name": "Brunei Darussalam",
+    "iso2": "BN",
+    "population": 438,
+    "gdp_per_capita": 31627.2,
+    "co2_emissions": 6.7,
+    "region": "Asia",
+    "tourists": 278
+  },
+  {
+    "name": "Bulgaria",
+    "iso2": "BG",
+    "population": 6948,
+    "gdp_per_capita": 9387.8,
+    "co2_emissions": 42.8,
+    "region": "Europe",
+    "tourists": 9273
+  },
+  {
+    "name": "Burkina Faso",
+    "iso2": "BF",
+    "population": 20903,
+    "gdp_per_capita": 820.2,
+    "region": "Africa",
+    "tourists": 144
+  },
+  {
+    "name": "Burundi",
+    "iso2": "BI",
+    "population": 11891,
+    "gdp_per_capita": 294,
+    "region": "Africa",
+    "tourists": 299
+  },
+  {
+    "name": "Cape Verde",
+    "iso2": "CV",
+    "population": 556,
+    "gdp_per_capita": 3635.4,
+    "region": "Africa",
+    "tourists": 710
+  },
+  {
+    "name": "Cambodia",
+    "iso2": "KH",
+    "population": 16719,
+    "gdp_per_capita": 1512.1,
+    "co2_emissions": 10.8,
+    "region": "Asia",
+    "tourists": 6201
+  },
+  {
+    "name": "Cameroon",
+    "iso2": "CM",
+    "population": 26546,
+    "gdp_per_capita": 1534.5,
+    "co2_emissions": 6.2,
+    "region": "Africa",
+    "tourists": 1081
+  },
+  {
+    "name": "Canada",
+    "iso2": "CA",
+    "population": 37742,
+    "gdp_per_capita": 46192.4,
+    "co2_emissions": 547.8,
+    "region": "North America",
+    "tourists": 21134
+  },
+  {
+    "name": "Central African Republic",
+    "iso2": "CF",
+    "population": 4830,
+    "gdp_per_capita": 480.7,
+    "region": "Africa",
+    "tourists": 107
+  },
+  {
+    "name": "Chad",
+    "iso2": "TD",
+    "population": 16426,
+    "gdp_per_capita": 735.7,
+    "region": "Africa",
+    "tourists": 87
+  },
+  {
+    "name": "Chile",
+    "iso2": "CL",
+    "population": 19116,
+    "gdp_per_capita": 15923.4,
+    "co2_emissions": 86.1,
+    "region": "South America",
+    "tourists": 5723
+  },
+  {
+    "name": "China",
+    "iso2": "CN",
+    "population": 1439324,
+    "gdp_per_capita": 9531.9,
+    "co2_emissions": 9257.9,
+    "region": "Asia",
+    "tourists": 62900
+  },
+  {
+    "name": "Colombia",
+    "iso2": "CO",
+    "population": 50883,
+    "gdp_per_capita": 6649.6,
+    "co2_emissions": 75.3,
+    "region": "South America",
+    "tourists": 3904
+  },
+  {
+    "name": "Comoros",
+    "iso2": "KM",
+    "population": 870,
+    "gdp_per_capita": 1400.5,
+    "region": "Africa",
+    "tourists": 36
+  },
+  {
+    "name": "Congo",
+    "iso2": "CG",
+    "population": 5518,
+    "gdp_per_capita": 2702.6,
+    "co2_emissions": 2.8,
+    "region": "Africa",
+    "tourists": 156
+  },
+  {
+    "name": "Costa Rica",
+    "iso2": "CR",
+    "population": 5094,
+    "gdp_per_capita": 12026.5,
+    "co2_emissions": 7.6,
+    "region": "North America",
+    "tourists": 3017
+  },
+  {
+    "name": "Croatia",
+    "iso2": "HR",
+    "population": 4105,
+    "gdp_per_capita": 14674,
+    "co2_emissions": 16.2,
+    "region": "Europe",
+    "tourists": 16645
+  },
+  {
+    "name": "Cuba",
+    "iso2": "CU",
+    "population": 11327,
+    "gdp_per_capita": 8821.8,
+    "co2_emissions": 26.2,
+    "region": "North America",
+    "tourists": 4684
+  },
+  {
+    "name": "Cyprus",
+    "iso2": "CY",
+    "population": 1207,
+    "gdp_per_capita": 28967.6,
+    "co2_emissions": 6.4,
+    "region": "Asia",
+    "tourists": 3939
+  },
+  {
+    "name": "Czech Republic",
+    "iso2": "CZ",
+    "population": 10709,
+    "gdp_per_capita": 22992.1,
+    "co2_emissions": 101.7,
+    "region": "Europe",
+    "tourists": 13665
+  },
+  {
+    "name": "Denmark",
+    "iso2": "DK",
+    "population": 5792,
+    "gdp_per_capita": 61833.7,
+    "co2_emissions": 31.3,
+    "region": "Europe",
+    "tourists": 12749
+  },
+  {
+    "name": "Djibouti",
+    "iso2": "DJ",
+    "population": 988,
+    "gdp_per_capita": 3048.6,
+    "region": "Africa",
+    "tourists": 63
+  },
+  {
+    "name": "Dominica",
+    "iso2": "DM",
+    "population": 75,
+    "gdp_per_capita": 7691.3,
+    "region": "North America",
+    "tourists": 63
+  },
+  {
+    "name": "Dominican Republic",
+    "iso2": "DO",
+    "population": 10848,
+    "gdp_per_capita": 7650.1,
+    "co2_emissions": 21.4,
+    "region": "North America",
+    "tourists": 6569
+  },
+  {
+    "name": "Ecuador",
+    "iso2": "EC",
+    "population": 17643,
+    "gdp_per_capita": 6344.9,
+    "co2_emissions": 34.3,
+    "region": "South America",
+    "tourists": 2535
+  },
+  {
+    "name": "Egypt",
+    "iso2": "EG",
+    "population": 102334,
+    "gdp_per_capita": 2537.5,
+    "co2_emissions": 209.2,
+    "region": "Africa",
+    "tourists": 11196
+  },
+  {
+    "name": "El Salvador",
+    "iso2": "SV",
+    "population": 6486,
+    "gdp_per_capita": 4058.2,
+    "co2_emissions": 5.7,
+    "region": "North America",
+    "tourists": 1677
+  },
+  {
+    "name": "Equatorial Guinea",
+    "iso2": "GQ",
+    "population": 1403,
+    "gdp_per_capita": 10179.2,
+    "region": "Africa"
+  },
+  {
+    "name": "Eritrea",
+    "iso2": "ER",
+    "population": 3546,
+    "gdp_per_capita": 1985.4,
+    "co2_emissions": 0.6,
+    "region": "Africa",
+    "tourists": 142
+  },
+  {
+    "name": "Estonia",
+    "iso2": "EE",
+    "population": 1326,
+    "gdp_per_capita": 23241.9,
+    "co2_emissions": 16,
+    "region": "Europe",
+    "tourists": 3234
+  },
+  {
+    "name": "Swaziland",
+    "iso2": "SZ",
+    "population": 1160,
+    "gdp_per_capita": 4145.7,
+    "region": "Africa",
+    "tourists": 782
+  },
+  {
+    "name": "Ethiopia",
+    "iso2": "ET",
+    "population": 114964,
+    "gdp_per_capita": 735.1,
+    "co2_emissions": 13.1,
+    "region": "Africa",
+    "tourists": 849
+  },
+  {
+    "name": "Fiji",
+    "iso2": "FJ",
+    "population": 896,
+    "gdp_per_capita": 6267,
+    "region": "Oceania",
+    "tourists": 870
+  },
+  {
+    "name": "Finland",
+    "iso2": "FI",
+    "population": 5541,
+    "gdp_per_capita": 50135.7,
+    "co2_emissions": 42.6,
+    "region": "Europe",
+    "tourists": 3224
+  },
+  {
+    "name": "France",
+    "iso2": "FR",
+    "population": 65274,
+    "gdp_per_capita": 41358.1,
+    "co2_emissions": 306.1,
+    "region": "Europe",
+    "tourists": 89322
+  },
+  {
+    "name": "Gabon",
+    "iso2": "GA",
+    "population": 2226,
+    "gdp_per_capita": 8018.8,
+    "co2_emissions": 3.4,
+    "region": "Africa",
+    "tourists": 269
+  },
+  {
+    "name": "Gambia",
+    "iso2": "GM",
+    "population": 2417,
+    "gdp_per_capita": 716.1,
+    "region": "Africa",
+    "tourists": 552
+  },
+  {
+    "name": "Georgia",
+    "iso2": "GE",
+    "population": 3989,
+    "gdp_per_capita": 4396.7,
+    "co2_emissions": 8.7,
+    "region": "Asia",
+    "tourists": 4757
+  },
+  {
+    "name": "Germany",
+    "iso2": "DE",
+    "population": 83784,
+    "gdp_per_capita": 47513.7,
+    "co2_emissions": 718.8,
+    "region": "Europe",
+    "tourists": 38881
+  },
+  {
+    "name": "Ghana",
+    "iso2": "GH",
+    "population": 31073,
+    "gdp_per_capita": 2201.6,
+    "co2_emissions": 13.8,
+    "region": "Africa",
+    "tourists": 897
+  },
+  {
+    "name": "Greece",
+    "iso2": "GR",
+    "population": 10423,
+    "gdp_per_capita": 20731.2,
+    "co2_emissions": 63.2,
+    "region": "Europe",
+    "tourists": 30123
+  },
+  {
+    "name": "Grenada",
+    "iso2": "GD",
+    "population": 112,
+    "gdp_per_capita": 10485.9,
+    "region": "North America",
+    "tourists": 185
+  },
+  {
+    "name": "Guatemala",
+    "iso2": "GT",
+    "population": 17916,
+    "gdp_per_capita": 4549,
+    "co2_emissions": 15.7,
+    "region": "North America",
+    "tourists": 1781
+  },
+  {
+    "name": "Guinea",
+    "iso2": "GN",
+    "population": 13133,
+    "gdp_per_capita": 937.6,
+    "region": "Africa",
+    "tourists": 99
+  },
+  {
+    "name": "Guinea-Bissau",
+    "iso2": "GW",
+    "population": 1968,
+    "gdp_per_capita": 778.4,
+    "region": "Africa",
+    "tourists": 45
+  },
+  {
+    "name": "Guyana",
+    "iso2": "GY",
+    "population": 787,
+    "gdp_per_capita": 4900.8,
+    "region": "South America",
+    "tourists": 287
+  },
+  {
+    "name": "Haiti",
+    "iso2": "HT",
+    "population": 11402,
+    "gdp_per_capita": 834.9,
+    "co2_emissions": 3.3,
+    "region": "North America",
+    "tourists": 447
+  },
+  {
+    "name": "Honduras",
+    "iso2": "HN",
+    "population": 9905,
+    "gdp_per_capita": 2500.1,
+    "co2_emissions": 9.4,
+    "region": "North America",
+    "tourists": 851
+  },
+  {
+    "name": "Hungary",
+    "iso2": "HU",
+    "population": 9660,
+    "gdp_per_capita": 16264,
+    "co2_emissions": 45.8,
+    "region": "Europe",
+    "tourists": 17552
+  },
+  {
+    "name": "Iceland",
+    "iso2": "IS",
+    "population": 341,
+    "gdp_per_capita": 76867.3,
+    "co2_emissions": 2.2,
+    "region": "Europe",
+    "tourists": 2344
+  },
+  {
+    "name": "India",
+    "iso2": "IN",
+    "population": 1380004,
+    "gdp_per_capita": 2054.8,
+    "co2_emissions": 2161.6,
+    "region": "Asia",
+    "tourists": 17423
+  },
+  {
+    "name": "Indonesia",
+    "iso2": "ID",
+    "population": 273524,
+    "gdp_per_capita": 3893.5,
+    "co2_emissions": 496.4,
+    "region": "Asia",
+    "tourists": 15810
+  },
+  {
+    "name": "Iran, Islamic Republic Of",
+    "iso2": "IR",
+    "population": 83993,
+    "gdp_per_capita": 5783.5,
+    "co2_emissions": 567.1,
+    "region": "Asia",
+    "tourists": 7295
+  },
+  {
+    "name": "Iraq",
+    "iso2": "IQ",
+    "population": 40222,
+    "gdp_per_capita": 5523.1,
+    "co2_emissions": 139.9,
+    "region": "Asia",
+    "tourists": 892
+  },
+  {
+    "name": "Ireland",
+    "iso2": "IE",
+    "population": 4938,
+    "gdp_per_capita": 79414.6,
+    "co2_emissions": 35.7,
+    "region": "Europe",
+    "tourists": 10926
+  },
+  {
+    "name": "Israel",
+    "iso2": "IL",
+    "population": 8656,
+    "gdp_per_capita": 44214.9,
+    "co2_emissions": 63.8,
+    "region": "Asia",
+    "tourists": 4121
+  },
+  {
+    "name": "Italy",
+    "iso2": "IT",
+    "population": 60462,
+    "gdp_per_capita": 34388.5,
+    "co2_emissions": 321.5,
+    "region": "Europe",
+    "tourists": 61567
+  },
+  {
+    "name": "Jamaica",
+    "iso2": "JM",
+    "population": 2961,
+    "gdp_per_capita": 5354.3,
+    "co2_emissions": 7,
+    "region": "North America",
+    "tourists": 2473
+  },
+  {
+    "name": "Japan",
+    "iso2": "JP",
+    "population": 126476,
+    "gdp_per_capita": 39082.1,
+    "co2_emissions": 1132.4,
+    "region": "Asia",
+    "tourists": 31192
+  },
+  {
+    "name": "Jordan",
+    "iso2": "JO",
+    "population": 10203,
+    "gdp_per_capita": 4237.8,
+    "co2_emissions": 25.6,
+    "region": "Asia",
+    "tourists": 4150
+  },
+  {
+    "name": "Kazakhstan",
+    "iso2": "KZ",
+    "population": 18777,
+    "gdp_per_capita": 9789.5,
+    "co2_emissions": 255.8,
+    "region": "Asia",
+    "tourists": 4560
+  },
+  {
+    "name": "Kenya",
+    "iso2": "KE",
+    "population": 53771,
+    "gdp_per_capita": 1710.5,
+    "co2_emissions": 16.3,
+    "region": "Africa",
+    "tourists": 1364
+  },
+  {
+    "name": "Kiribati",
+    "iso2": "KI",
+    "population": 119,
+    "gdp_per_capita": 1627.4,
+    "region": "Oceania",
+    "tourists": 7
+  },
+  {
+    "name": "Korea, Democratic People's Republic Of",
+    "iso2": "KP",
+    "population": 25779,
+    "gdp_per_capita": 687.9,
+    "co2_emissions": 19.6,
+    "region": "Asia"
+  },
+  {
+    "name": "Kuwait",
+    "iso2": "KW",
+    "population": 4271,
+    "gdp_per_capita": 34248.8,
+    "co2_emissions": 89.4,
+    "region": "Asia",
+    "tourists": 8508
+  },
+  {
+    "name": "Kyrgyzstan",
+    "iso2": "KG",
+    "population": 6524,
+    "gdp_per_capita": 1283.8,
+    "co2_emissions": 8.9,
+    "region": "Asia",
+    "tourists": 6947
+  },
+  {
+    "name": "Latvia",
+    "iso2": "LV",
+    "population": 1886,
+    "gdp_per_capita": 17851.6,
+    "co2_emissions": 6.7,
+    "region": "Europe",
+    "tourists": 1946
+  },
+  {
+    "name": "Lebanon",
+    "iso2": "LB",
+    "population": 6825,
+    "gdp_per_capita": 8223.7,
+    "co2_emissions": 26.9,
+    "region": "Asia",
+    "tourists": 1964
+  },
+  {
+    "name": "Lesotho",
+    "iso2": "LS",
+    "population": 2142,
+    "gdp_per_capita": 1248,
+    "region": "Africa",
+    "tourists": 1173
+  },
+  {
+    "name": "Liberia",
+    "iso2": "LR",
+    "population": 5058,
+    "gdp_per_capita": 440.3,
+    "region": "Africa"
+  },
+  {
+    "name": "Libya",
+    "iso2": "LY",
+    "population": 6871,
+    "gdp_per_capita": 5147.3,
+    "co2_emissions": 41.5,
+    "region": "Africa",
+    "tourists": 34
+  },
+  {
+    "name": "Liechtenstein",
+    "iso2": "LI",
+    "population": 39,
+    "gdp_per_capita": 179258.2,
+    "region": "Europe",
+    "tourists": 85
+  },
+  {
+    "name": "Lithuania",
+    "iso2": "LT",
+    "population": 2722,
+    "gdp_per_capita": 19082.5,
+    "co2_emissions": 10.8,
+    "region": "Europe",
+    "tourists": 2825
+  },
+  {
+    "name": "Luxembourg",
+    "iso2": "LU",
+    "population": 626,
+    "gdp_per_capita": 117369.5,
+    "co2_emissions": 8.6,
+    "region": "Europe",
+    "tourists": 1018
+  },
+  {
+    "name": "Madagascar",
+    "iso2": "MG",
+    "population": 27691,
+    "gdp_per_capita": 527.4,
+    "region": "Africa",
+    "tourists": 291
+  },
+  {
+    "name": "Malawi",
+    "iso2": "MW",
+    "population": 19130,
+    "gdp_per_capita": 396.6,
+    "region": "Africa",
+    "tourists": 871
+  },
+  {
+    "name": "Malaysia",
+    "iso2": "MY",
+    "population": 32366,
+    "gdp_per_capita": 11373.3,
+    "co2_emissions": 211,
+    "region": "Asia",
+    "tourists": 25832
+  },
+  {
+    "name": "Maldives",
+    "iso2": "MV",
+    "population": 540,
+    "gdp_per_capita": 10330.6,
+    "region": "Asia",
+    "tourists": 1484
+  },
+  {
+    "name": "Mali",
+    "iso2": "ML",
+    "population": 20251,
+    "gdp_per_capita": 900.1,
+    "region": "Africa",
+    "tourists": 193
+  },
+  {
+    "name": "Malta",
+    "iso2": "MT",
+    "population": 442,
+    "gdp_per_capita": 33122.8,
+    "co2_emissions": 1.5,
+    "region": "Europe",
+    "tourists": 2599
+  },
+  {
+    "name": "Marshall Islands",
+    "iso2": "MH",
+    "population": 53,
+    "gdp_per_capita": 3666.9,
+    "region": "Oceania",
+    "tourists": 7
+  },
+  {
+    "name": "Mauritania",
+    "iso2": "MR",
+    "population": 4650,
+    "gdp_per_capita": 1730.4,
+    "region": "Africa"
+  },
+  {
+    "name": "Mauritius",
+    "iso2": "MU",
+    "population": 1272,
+    "gdp_per_capita": 11222,
+    "co2_emissions": 4.2,
+    "region": "Africa",
+    "tourists": 1399
+  },
+  {
+    "name": "Mexico",
+    "iso2": "MX",
+    "population": 128933,
+    "gdp_per_capita": 9694.9,
+    "co2_emissions": 446,
+    "region": "North America",
+    "tourists": 41313
+  },
+  {
+    "name": "Micronesia, Federated States Of",
+    "iso2": "FM",
+    "population": 115,
+    "gdp_per_capita": 3296.4,
+    "region": "Oceania",
+    "tourists": 19
+  },
+  {
+    "name": "Moldova, Republic Of",
+    "iso2": "MD",
+    "population": 4034,
+    "gdp_per_capita": 2791,
+    "co2_emissions": 7.5,
+    "region": "Europe",
+    "tourists": 160
+  },
+  {
+    "name": "Monaco",
+    "iso2": "MC",
+    "population": 39,
+    "gdp_per_capita": 185835,
+    "region": "Europe",
+    "tourists": 347
+  },
+  {
+    "name": "Mongolia",
+    "iso2": "MN",
+    "population": 3278,
+    "gdp_per_capita": 4103.7,
+    "co2_emissions": 19.3,
+    "region": "Asia",
+    "tourists": 529
+  },
+  {
+    "name": "Montenegro",
+    "iso2": "ME",
+    "population": 628,
+    "gdp_per_capita": 8771.7,
+    "co2_emissions": 2.2,
+    "region": "Europe",
+    "tourists": 2077
+  },
+  {
+    "name": "Morocco",
+    "iso2": "MA",
+    "population": 36911,
+    "gdp_per_capita": 3272.9,
+    "co2_emissions": 58.1,
+    "region": "Africa",
+    "tourists": 12289
+  },
+  {
+    "name": "Mozambique",
+    "iso2": "MZ",
+    "population": 31255,
+    "gdp_per_capita": 498.9,
+    "co2_emissions": 7.6,
+    "region": "Africa",
+    "tourists": 2743
+  },
+  {
+    "name": "Myanmar",
+    "iso2": "MM",
+    "population": 54410,
+    "gdp_per_capita": 1354.4,
+    "co2_emissions": 30.4,
+    "region": "Asia",
+    "tourists": 3551
+  },
+  {
+    "name": "Namibia",
+    "iso2": "NA",
+    "population": 2541,
+    "gdp_per_capita": 5930.1,
+    "co2_emissions": 4,
+    "region": "Africa",
+    "tourists": 1499
+  },
+  {
+    "name": "Nauru",
+    "iso2": "NR",
+    "population": 11,
+    "gdp_per_capita": 11875.9,
+    "region": "Oceania"
+  },
+  {
+    "name": "Nepal",
+    "iso2": "NP",
+    "population": 29137,
+    "gdp_per_capita": 990.6,
+    "co2_emissions": 10.1,
+    "region": "Asia",
+    "tourists": 1173
+  },
+  {
+    "name": "Netherlands",
+    "iso2": "NL",
+    "population": 17135,
+    "gdp_per_capita": 53583.1,
+    "co2_emissions": 155.6,
+    "region": "Europe",
+    "tourists": 18780
+  },
+  {
+    "name": "New Zealand",
+    "iso2": "NZ",
+    "population": 4822,
+    "gdp_per_capita": 43836.2,
+    "co2_emissions": 32.2,
+    "region": "Oceania",
+    "tourists": 3686
+  },
+  {
+    "name": "Nicaragua",
+    "iso2": "NI",
+    "population": 6625,
+    "gdp_per_capita": 2028.9,
+    "co2_emissions": 5.1,
+    "region": "North America",
+    "tourists": 1256
+  },
+  {
+    "name": "Nigeria",
+    "iso2": "NG",
+    "population": 206140,
+    "gdp_per_capita": 2153.5,
+    "co2_emissions": 86,
+    "region": "Africa",
+    "tourists": 1889
+  },
+  {
+    "name": "Nigeria",
+    "iso2": "NG",
+    "population": 206140,
+    "gdp_per_capita": 2153.5,
+    "co2_emissions": 86,
+    "region": "Africa",
+    "tourists": 1889
+  },
+  {
+    "name": "Macedonia, The Former Yugoslav Republic Of",
+    "iso2": "MK",
+    "population": 2083,
+    "gdp_per_capita": 6062.9,
+    "co2_emissions": 7.4,
+    "region": "Europe",
+    "tourists": 707
+  },
+  {
+    "name": "Norway",
+    "iso2": "NO",
+    "population": 5421,
+    "gdp_per_capita": 81335.7,
+    "co2_emissions": 34.8,
+    "region": "Europe",
+    "tourists": 5688
+  },
+  {
+    "name": "Oman",
+    "iso2": "OM",
+    "population": 5107,
+    "gdp_per_capita": 19072.8,
+    "co2_emissions": 65.5,
+    "region": "Asia",
+    "tourists": 2301
+  },
+  {
+    "name": "Pakistan",
+    "iso2": "PK",
+    "population": 220892,
+    "gdp_per_capita": 1330.4,
+    "co2_emissions": 183.4,
+    "region": "Asia",
+    "tourists": 966
+  },
+  {
+    "name": "Palau",
+    "iso2": "PW",
+    "population": 22,
+    "gdp_per_capita": 15859.4,
+    "region": "Oceania",
+    "tourists": 106
+  },
+  {
+    "name": "Panama",
+    "iso2": "PA",
+    "population": 4315,
+    "gdp_per_capita": 15575.1,
+    "co2_emissions": 9.6,
+    "region": "North America",
+    "tourists": 1785
+  },
+  {
+    "name": "Papua New Guinea",
+    "iso2": "PG",
+    "population": 8947,
+    "gdp_per_capita": 2681.4,
+    "region": "Oceania",
+    "tourists": 140
+  },
+  {
+    "name": "Paraguay",
+    "iso2": "PY",
+    "population": 7132,
+    "gdp_per_capita": 5794.6,
+    "co2_emissions": 7.7,
+    "region": "South America",
+    "tourists": 1181
+  },
+  {
+    "name": "Peru",
+    "iso2": "PE",
+    "population": 32972,
+    "gdp_per_capita": 6947.3,
+    "co2_emissions": 49.7,
+    "region": "South America",
+    "tourists": 4419
+  },
+  {
+    "name": "Philippines",
+    "iso2": "PH",
+    "population": 109581,
+    "gdp_per_capita": 3102.7,
+    "co2_emissions": 126.5,
+    "region": "Asia",
+    "tourists": 7168
+  },
+  {
+    "name": "Poland",
+    "iso2": "PL",
+    "population": 37847,
+    "gdp_per_capita": 15444,
+    "co2_emissions": 305.8,
+    "region": "Europe",
+    "tourists": 19622
+  },
+  {
+    "name": "Portugal",
+    "iso2": "PT",
+    "population": 10197,
+    "gdp_per_capita": 23477.7,
+    "co2_emissions": 50.8,
+    "region": "Europe",
+    "tourists": 16186
+  },
+  {
+    "name": "Qatar",
+    "iso2": "QA",
+    "population": 2881,
+    "gdp_per_capita": 68793.7,
+    "co2_emissions": 80.1,
+    "region": "Asia",
+    "tourists": 1819
+  },
+  {
+    "name": "Romania",
+    "iso2": "RO",
+    "population": 19238,
+    "gdp_per_capita": 12280.8,
+    "co2_emissions": 70.8,
+    "region": "Europe",
+    "tourists": 11720
+  },
+  {
+    "name": "Russian Federation",
+    "iso2": "RU",
+    "population": 145934,
+    "gdp_per_capita": 11394.1,
+    "co2_emissions": 1536.9,
+    "region": "Europe",
+    "tourists": 24551
+  },
+  {
+    "name": "Rwanda",
+    "iso2": "RW",
+    "population": 12952,
+    "gdp_per_capita": 773,
+    "region": "Africa",
+    "tourists": 932
+  },
+  {
+    "name": "Saint Kitts And Nevis",
+    "iso2": "KN",
+    "population": 57,
+    "gdp_per_capita": 19275.4,
+    "region": "North America",
+    "tourists": 125
+  },
+  {
+    "name": "Saint Lucia",
+    "iso2": "LC",
+    "population": 184,
+    "gdp_per_capita": 10566,
+    "region": "North America",
+    "tourists": 395
+  },
+  {
+    "name": "Saint Vincent And The Grenadines",
+    "iso2": "VC",
+    "population": 111,
+    "gdp_per_capita": 7361.3,
+    "region": "North America",
+    "tourists": 80
+  },
+  {
+    "name": "Samoa",
+    "iso2": "WS",
+    "population": 198,
+    "gdp_per_capita": 4249.6,
+    "region": "Oceania",
+    "tourists": 164
+  },
+  {
+    "name": "San Marino",
+    "iso2": "SM",
+    "population": 34,
+    "gdp_per_capita": 48472.7,
+    "region": "Europe",
+    "tourists": 84
+  },
+  {
+    "name": "Sao Tome And Principe",
+    "iso2": "ST",
+    "population": 219,
+    "gdp_per_capita": 1948.1,
+    "region": "Africa",
+    "tourists": 33
+  },
+  {
+    "name": "Saudi Arabia",
+    "iso2": "SA",
+    "population": 34814,
+    "gdp_per_capita": 23217.2,
+    "co2_emissions": 532.2,
+    "region": "Asia",
+    "tourists": 15334
+  },
+  {
+    "name": "Senegal",
+    "iso2": "SN",
+    "population": 16744,
+    "gdp_per_capita": 1501.7,
+    "co2_emissions": 8.3,
+    "region": "Africa",
+    "tourists": 1365
+  },
+  {
+    "name": "Serbia",
+    "iso2": "RS",
+    "population": 8737,
+    "gdp_per_capita": 7208.8,
+    "co2_emissions": 46.1,
+    "region": "Europe",
+    "tourists": 1711
+  },
+  {
+    "name": "Seychelles",
+    "iso2": "SC",
+    "population": 98,
+    "gdp_per_capita": 16377.9,
+    "region": "Africa",
+    "tourists": 362
+  },
+  {
+    "name": "Sierra Leone",
+    "iso2": "SL",
+    "population": 7977,
+    "gdp_per_capita": 536.1,
+    "region": "Africa",
+    "tourists": 57
+  },
+  {
+    "name": "Singapore",
+    "iso2": "SG",
+    "population": 5850,
+    "gdp_per_capita": 62720.9,
+    "co2_emissions": 47.4,
+    "region": "Asia",
+    "tourists": 14673
+  },
+  {
+    "name": "Slovakia",
+    "iso2": "SK",
+    "population": 5460,
+    "gdp_per_capita": 19430.8,
+    "co2_emissions": 32.2,
+    "region": "Europe",
+    "tourists": 2256
+  },
+  {
+    "name": "Slovenia",
+    "iso2": "SI",
+    "population": 2079,
+    "gdp_per_capita": 26005.1,
+    "co2_emissions": 13.4,
+    "region": "Europe",
+    "tourists": 4425
+  },
+  {
+    "name": "Solomon Islands",
+    "iso2": "SB",
+    "population": 687,
+    "gdp_per_capita": 1946.9,
+    "region": "Oceania",
+    "tourists": 28
+  },
+  {
+    "name": "Somalia",
+    "iso2": "SO",
+    "population": 15893,
+    "gdp_per_capita": 99.6,
+    "region": "Africa"
+  },
+  {
+    "name": "South Africa",
+    "iso2": "ZA",
+    "population": 59309,
+    "gdp_per_capita": 6369.2,
+    "co2_emissions": 421.7,
+    "region": "Africa",
+    "tourists": 10472
+  },
+  {
+    "name": "South Sudan",
+    "iso2": "SS",
+    "population": 11194,
+    "gdp_per_capita": 747.7,
+    "co2_emissions": 1.5,
+    "region": "Africa"
+  },
+  {
+    "name": "Spain",
+    "iso2": "ES",
+    "population": 46755,
+    "gdp_per_capita": 30405.8,
+    "co2_emissions": 253.4,
+    "region": "Europe",
+    "tourists": 82773
+  },
+  {
+    "name": "Sri Lanka",
+    "iso2": "LK",
+    "population": 21413,
+    "gdp_per_capita": 4189.7,
+    "co2_emissions": 23.1,
+    "region": "Asia",
+    "tourists": 2334
+  },
+  {
+    "name": "Sudan",
+    "iso2": "SD",
+    "population": 43849,
+    "gdp_per_capita": 1208.4,
+    "co2_emissions": 18.8,
+    "region": "Africa",
+    "tourists": 836
+  },
+  {
+    "name": "Suriname",
+    "iso2": "SR",
+    "population": 587,
+    "gdp_per_capita": 6003.7,
+    "co2_emissions": 1.9,
+    "region": "South America",
+    "tourists": 278
+  },
+  {
+    "name": "Sweden",
+    "iso2": "SE",
+    "population": 10099,
+    "gdp_per_capita": 55766.8,
+    "co2_emissions": 37.6,
+    "region": "Europe",
+    "tourists": 7440
+  },
+  {
+    "name": "Switzerland",
+    "iso2": "CH",
+    "population": 8655,
+    "gdp_per_capita": 82708.5,
+    "co2_emissions": 37.1,
+    "region": "Europe",
+    "tourists": 10362
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "iso2": "SY",
+    "population": 17501,
+    "gdp_per_capita": 981.3,
+    "co2_emissions": 23,
+    "region": "Asia",
+    "tourists": 5070
+  },
+  {
+    "name": "Tajikistan",
+    "iso2": "TJ",
+    "population": 9538,
+    "gdp_per_capita": 826.6,
+    "co2_emissions": 5.8,
+    "region": "Asia",
+    "tourists": 1035
+  },
+  {
+    "name": "Tanzania, United Republic Of",
+    "iso2": "TZ",
+    "population": 59734,
+    "gdp_per_capita": 1044.1,
+    "co2_emissions": 10.1,
+    "region": "Africa",
+    "tourists": 1378
+  },
+  {
+    "name": "Thailand",
+    "iso2": "TH",
+    "population": 69800,
+    "gdp_per_capita": 7273.6,
+    "co2_emissions": 244.3,
+    "region": "Asia",
+    "tourists": 38178
+  },
+  {
+    "name": "Timor-Leste",
+    "iso2": "TL",
+    "population": 1318,
+    "gdp_per_capita": 2035.5,
+    "region": "Asia",
+    "tourists": 75
+  },
+  {
+    "name": "Togo",
+    "iso2": "TG",
+    "population": 8279,
+    "gdp_per_capita": 654.8,
+    "co2_emissions": 2.1,
+    "region": "Africa",
+    "tourists": 573
+  },
+  {
+    "name": "Tonga",
+    "iso2": "TO",
+    "population": 106,
+    "gdp_per_capita": 4885.8,
+    "region": "Oceania",
+    "tourists": 54
+  },
+  {
+    "name": "Trinidad And Tobago",
+    "iso2": "TT",
+    "population": 1400,
+    "gdp_per_capita": 17130.3,
+    "co2_emissions": 18,
+    "region": "North America",
+    "tourists": 375
+  },
+  {
+    "name": "Tunisia",
+    "iso2": "TN",
+    "population": 11819,
+    "gdp_per_capita": 3449.6,
+    "co2_emissions": 26.2,
+    "region": "Africa",
+    "tourists": 8299
+  },
+  {
+    "name": "Turkey",
+    "iso2": "TR",
+    "population": 84339,
+    "gdp_per_capita": 9367.9,
+    "co2_emissions": 378.6,
+    "region": "Asia",
+    "tourists": 45768
+  },
+  {
+    "name": "Turkmenistan",
+    "iso2": "TM",
+    "population": 6031,
+    "gdp_per_capita": 6964.6,
+    "co2_emissions": 69,
+    "region": "Asia",
+    "tourists": 8
+  },
+  {
+    "name": "Tuvalu",
+    "iso2": "TV",
+    "population": 12,
+    "gdp_per_capita": 4000.6,
+    "region": "Oceania",
+    "tourists": 3
+  },
+  {
+    "name": "Uganda",
+    "iso2": "UG",
+    "population": 45741,
+    "gdp_per_capita": 704.4,
+    "region": "Africa",
+    "tourists": 1402
+  },
+  {
+    "name": "Ukraine",
+    "iso2": "UA",
+    "population": 43734,
+    "gdp_per_capita": 2956.9,
+    "co2_emissions": 171.3,
+    "region": "Europe",
+    "tourists": 14104
+  },
+  {
+    "name": "United Arab Emirates",
+    "iso2": "AE",
+    "population": 9890,
+    "gdp_per_capita": 43005,
+    "co2_emissions": 196.5,
+    "region": "Asia",
+    "tourists": 21286
+  },
+  {
+    "name": "United Kingdom",
+    "iso2": "GB",
+    "population": 67886,
+    "gdp_per_capita": 42526.4,
+    "co2_emissions": 358.7,
+    "region": "Europe",
+    "tourists": 36316
+  },
+  {
+    "name": "United States",
+    "iso2": "US",
+    "population": 331003,
+    "gdp_per_capita": 62917.9,
+    "co2_emissions": 4761.3,
+    "region": "North America",
+    "tourists": 79746
+  },
+  {
+    "name": "Uruguay",
+    "iso2": "UY",
+    "population": 3474,
+    "gdp_per_capita": 17278.1,
+    "co2_emissions": 5.9,
+    "region": "South America",
+    "tourists": 3469
+  },
+  {
+    "name": "Uzbekistan",
+    "iso2": "UZ",
+    "population": 33469,
+    "gdp_per_capita": 1555,
+    "co2_emissions": 81.2,
+    "region": "Asia",
+    "tourists": 5346
+  },
+  {
+    "name": "Vanuatu",
+    "iso2": "VU",
+    "population": 307,
+    "gdp_per_capita": 3037.2,
+    "region": "Oceania",
+    "tourists": 116
+  },
+  {
+    "name": "Holy See (Vatican City State)",
+    "iso2": "VA",
+    "population": 1,
+    "region": "Europe"
+  },
+  {
+    "name": "Venezuela, Bolivarian Republic Of",
+    "iso2": "VE",
+    "population": 28436,
+    "gdp_per_capita": 7212.2,
+    "co2_emissions": 113.7,
+    "region": "South America",
+    "tourists": 427
+  },
+  {
+    "name": "Viet Nam",
+    "iso2": "VN",
+    "population": 97339,
+    "gdp_per_capita": 2563.2,
+    "co2_emissions": 191.2,
+    "region": "Asia",
+    "tourists": 15498
+  },
+  {
+    "name": "Yemen",
+    "iso2": "YE",
+    "population": 29826,
+    "gdp_per_capita": 935.9,
+    "co2_emissions": 8.9,
+    "region": "Asia",
+    "tourists": 367
+  },
+  {
+    "name": "Zambia",
+    "iso2": "ZM",
+    "population": 18384,
+    "gdp_per_capita": 1572.3,
+    "co2_emissions": 6,
+    "region": "Africa",
+    "tourists": 1072
+  },
+  {
+    "name": "Zimbabwe",
+    "iso2": "ZW",
+    "population": 14863,
+    "gdp_per_capita": 1683.8,
+    "co2_emissions": 9.7,
+    "region": "Africa",
+    "tourists": 2580
+  }
+]

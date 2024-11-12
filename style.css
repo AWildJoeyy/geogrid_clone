@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #2c2f33;
+    color: #fff;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px repeat(3, 150px);
+    grid-template-rows: 100px repeat(3, 150px);
+    gap: 5px;
+}
+
+.category-header {
+    background-color: #3a3d41;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.guess-cell {
+    background-color: #3a3d41;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.invisible-cell {
+    background-color: #2c2f33; /* Matches the background */
+    pointer-events: none; /* Prevent interaction */
+}
+
+.guess-cell.correct {
+    background-size: cover;
+    color: transparent;
+}
+
+.guess-cell.incorrect {
+    background-color: #ff4d4d;
+    animation: shake 0.5s;
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+}
